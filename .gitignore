@@ -1,0 +1,14 @@
+# signing keys must never be public
+*.keystore
+*.jks
+
+# build junk
+modified_project/build/
+modified_project/dist/
+*.apk
+*.idsig
+.DS_Store
+Thumbs.db
+
+# large video (submit separately)
+*.mp4
