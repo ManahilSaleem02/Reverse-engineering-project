@@ -1,5 +1,5 @@
 # DIVA Android Reverse Engineering
-# DAA Assignment 1: Reverse Engineering a Vulnerable Android Application
+# Reverse Engineering a Vulnerable Android Application
  
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 ![Target](https://img.shields.io/badge/target-DIVA%20(training%20app)-orange)
